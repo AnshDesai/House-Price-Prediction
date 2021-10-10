@@ -1,2 +1,2 @@
 # House-Price-Prediction
-Kaggle dataset of House Price Prediciton 
+Kaggle dataset for House Price Prediciton 
